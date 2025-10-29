@@ -52,7 +52,7 @@ Kalau lebih dari satu tunnel buat seperti berikut:
 ```bash
 version: "3"
 agent:
-    authtoken: 1idDhPeLb9tUX0cj0PXrFBgkZSD_764MxFp2yDXh63XKBpWee
+    authtoken: <YOUR AUTH TOKEN NGROK>
 tunnels:
 app:
     proto: http
