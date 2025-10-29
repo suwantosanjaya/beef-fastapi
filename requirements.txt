@@ -1,0 +1,42 @@
+# Flask
+# tensorflow==2.11.0
+# keras==2.11.0
+# tensorflow-addons==0.19.0
+# protobuf==3.19.6
+# tensorboard==2.11.0
+# numpy==1.24.4
+# efficientnet
+# pandas
+# matplotlib
+# seaborn
+# openpyxl
+
+# PyJWT
+# werkzeug
+
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-jose[cryptography]
+mysql-connector-python
+alembic
+nanoid
+python-multipart
+faker
+
+# Data handling
+numpy==1.26.4
+pandas==2.3.1
+
+# Visualization
+seaborn==0.13.2
+matplotlib
+
+# Machine learning
+scikit-learn
+
+# Deep learning
+tensorflow==2.14.0
+efficientnet

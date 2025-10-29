@@ -1,0 +1,9 @@
+.env
+.vscode/
+.idea/
+*.log
+coverage/
+files/
+logs/
+venv/
+.venv-linux/

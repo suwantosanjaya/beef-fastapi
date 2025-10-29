@@ -1,0 +1,17 @@
+SECRET_KEY = "supersecret"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 10 # 10 minutes
+REFRESH_TOKEN_EXPIRE_MINUTES = 7*24*60 # 7 days
+
+# UPLOAD_IMAGE_PATH = "uploads/image"
+UPLOAD_IMAGE_PATH = "files/images"
+
+# MODEL DEEP LEARNING PATH
+MODEL_PATH = "deep_learning_models/EfficientNetB0_best_final.h5"
+
+# DATABASE CONFIGURATION
+DATABASE_NAME = "kurikulum_obe"
+DATABASE_HOST = "localhost"
+DATABASE_PORT = 3306
+DATABASE_USER = "root"
+DATABASE_PASSWORD = "1234567890"
